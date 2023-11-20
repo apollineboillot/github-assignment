@@ -12,7 +12,7 @@ Safwane	Benseddiq X
 Mohamed	Benslimane
 Dora	Bijvoet
 Alexander	Bohane
-Apolline	Boillot
+Apolline	Boillot X
 Thomas	Bordes X
 Nathan	Bout
 Thibaut	Boyenval
